@@ -21,3 +21,4 @@ This command will move the starter code to the **app-example** directory and cre
 
 - ESLint
 - Prettier
+- Husky
